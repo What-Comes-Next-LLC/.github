@@ -6,7 +6,6 @@
 ---
 
 ## 🚀 Mission
-
 To build radically personalized tools that restore human agency in health, wellness, and behavior—centered around **privacy**, **adaptation**, and **real lived experience**.
 
 We don’t sell habits. We build catalysts.
@@ -20,10 +19,10 @@ We don’t sell habits. We build catalysts.
 - **wcn-coachsclipboard** — Tablet-first trainer dashboard for client insight, oversight, and coaching
 - **wcn-dayinthelife** — Automated daily summary generator (private MVP development; public integrations via Catalyst standards)
 
-> All repositories follow our [Security Practices](../SECURITY.md), [Brand Guidelines](../BRANDKIT.md), and [Engineering Workflow](../HOW_WE_WORK.md).
+> All repositories follow strict [Security Practices](./SECURITY.md) and centralized [Brand Guidelines](./BRANDKIT.md).
 
 ---
-
+  
 ## 🎯 Our Approach
 
 - **Human First**: Tools that meet people where they are.
@@ -34,11 +33,12 @@ We don’t sell habits. We build catalysts.
 
 ---
 
-## 🛠️ Tech Stack & Workflow
+## 🛠️ Tech Stack
 
-- We maintain a modular, founder-optimized architecture that blends human judgment with AI augmentation.
-- All technical process documentation is available at:  
-  📄 [`HOW_WE_WORK.md`](../HOW_WE_WORK.md)
+- **Frameworks**: Next.js, React, TailwindCSS
+- **Backend**: Supabase, Self-hosted Postgres
+- **Infrastructure**: Local LLMs, ProtonVPN tunneling, Docker
+- **Monitoring**: Zero external trackers; internal-only audits
 
 ---
 
