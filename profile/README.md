@@ -20,7 +20,7 @@ We don’t sell habits. We build catalysts.
 - **wcn-coachsclipboard** — Tablet-first trainer dashboard for client insight, oversight, and coaching
 - **wcn-dayinthelife** — Automated daily summary generator (private MVP development; public integrations via Catalyst standards)
 
-> All repositories follow our [Security Practices](../SECURITY.md), [Brand Guidelines](../BRANDKIT.md), and [Engineering Workflow](../HOW_WE_WORK.md).
+> All repositories follow our [Security Practices](./SECURITY.md), [Brand Guidelines](./BRANDKIT.md), and [Engineering Workflow](./HOW_WE_WORK.md).
 
 ---
 
@@ -38,7 +38,7 @@ We don’t sell habits. We build catalysts.
 
 - We maintain a modular, founder-optimized architecture that blends human judgment with AI augmentation.
 - All technical process documentation is available at:  
-  📄 [`HOW_WE_WORK.md`](../HOW_WE_WORK.md)
+  📄 [`HOW_WE_WORK.md`](./HOW_WE_WORK.md)
 
 ---
 
